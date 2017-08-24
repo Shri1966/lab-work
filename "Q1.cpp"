@@ -5,4 +5,5 @@ int a = 2;
 char b = 'z';
 float c = 5.1;
 bool d = true;
+cout << a << b << c << d;
 }
