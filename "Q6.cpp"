@@ -1,0 +1,9 @@
+#include <iostream>
+#include <cmath>
+using namespace std;
+int main () {
+int a,b;
+cout << "enter one integer";
+cin >> a;
+cout << "diameter" << 2*a << "circumference" << 2*M_PI*a << "area" << M_PI*pow(a,2);
+}
